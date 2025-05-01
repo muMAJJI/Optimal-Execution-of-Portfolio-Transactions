@@ -6,12 +6,12 @@ Quantitative Researcher | [Mustafa MAJJI](https://www.linkedin.com/in/mustafa-ma
 
 ## 📚 Project Overview
 
-This project examines the Almgren-Chriss model, a key framework in quantitative finance used for the optimal execution of large-scale trades. The model is designed to minimize overall trading costs while managing the risks associated with price fluctuations during execution. 
+This project examines the Almgren-Chriss model, a key framework in quantitative finance used for the optimal execution of large-scale trades. The model is designed to minimize overall trading costs while managing the risks associated with price fluctuations during execution.
+
 By balancing market impact and execution risk, it provides an efficient strategy for buying or selling a portfolio over a specified time horizon.
 
 ## 🚀 Repository Structure
 
-- **Images**: Contains all images used in the notebook.
 
 - **Almgren-Chriss**: A PDF document providing a detailed explanation of the theory behind the model.
 
