@@ -15,7 +15,7 @@ By balancing market impact and execution risk, it provides an efficient strategy
 
 - **Almgren-Chriss.pdf**: A PDF document providing a detailed explanation of the theory behind the model.
 
-- **Almgren-Chriss.ipynb**: A Jupyter Notebook that explains both methods and demonstrates the optimization process.
+- **Almgren-Chriss.ipynb**: A Jupyter Notebook that explains the model and demonstrates the optimization process.
 
 ## :mailbox_closed: Contact
 For any information, feedback or questions, please [contact me][Mustafa-email]
