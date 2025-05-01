@@ -13,7 +13,7 @@ By balancing market impact and execution risk, it provides an efficient strategy
 ## 🚀 Repository Structure
 
 
-- **Almgren-Chriss**: A PDF document providing a detailed explanation of the theory behind the model.
+- **Almgren-Chriss.pdf**: A PDF document providing a detailed explanation of the theory behind the model.
 
 - **Almgren-Chriss.ipynb**: A Jupyter Notebook that explains both methods and demonstrates the optimization process.
 
